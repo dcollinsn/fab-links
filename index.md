@@ -7,6 +7,15 @@
 * [Legality Policy (banlists and LL)](https://fabtcg.com/resources/rules-and-policy-center/card-legality-policy/)
 * [Format Definitions](https://fabtcg.com/resources/gameplay-formats/)
 
+## Release Notes
+
+* [WTR](https://fabtcg.com/resources/rules-and-policy-center/release-notes/welcome-rathe/)
+* [ARC](https://fabtcg.com/resources/rules-and-policy-center/release-notes/arcane-rising/)
+* [CRU](https://fabtcg.com/resources/rules-and-policy-center/release-notes/crucible-war/)
+* [MON](https://fabtcg.com/resources/rules-and-policy-center/release-notes/monarch/)
+* [ELE](https://fabtcg.com/resources/rules-and-policy-center/release-notes/tales-aria-release-notes/)
+* [EVR](https://fabtcg.com/resources/rules-and-policy-center/release-notes/everfest/)
+
 ## Living Legend Information
 
 * [Living Legend Policy and Status](https://fabtcg.com/resources/rules-and-policy-center/living-legend/)
