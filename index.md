@@ -1,9 +1,11 @@
 ## Rules and Policy
 
 * [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/)
-* [CR v2.0.1 (18 March 2022) PDF](https://storage.googleapis.com/fabmaster/media/documents/FaB_Comprehensive_Rules_v2.0.1.pdf)
+* [CR v2.0.2 (9 May 2022) PDF](https://storage.googleapis.com/fabmaster/media/documents/FaB_Comprehensive_Rules_v2.0.2.pdf)
 * [Tournament Rules and Policy](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/)
+* [Hyperlinked TRP](https://dcollinsn.github.io/fab-docs/trp)
 * [Penalty Guidelines](https://fabtcg.com/resources/rules-and-policy-center/penalty-guidelines/)
+* [Hyperlinked PPG](https://dcollinsn.github.io/fab-docs/pg)
 * [Legality Policy (banlists and LL)](https://fabtcg.com/resources/rules-and-policy-center/card-legality-policy/)
 * [Format Definitions](https://fabtcg.com/resources/gameplay-formats/)
 
