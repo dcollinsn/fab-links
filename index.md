@@ -1,11 +1,9 @@
 ## Rules and Policy
 
 * [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/)
-* [CR v2.0.2 (9 May 2022) PDF](https://storage.googleapis.com/fabmaster/media/documents/FaB_Comprehensive_Rules_v2.0.2.pdf)
+* [CR v2.1.1 (11 August 2022) PDF](https://storage.googleapis.com/fabmaster/media/documents/FaB_Comprehensive_Rules_v2.2.1.pdf)
 * [Tournament Rules and Policy](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/)
-* [Hyperlinked TRP](https://dcollinsn.github.io/fab-docs/trp)
 * [Penalty Guidelines](https://fabtcg.com/resources/rules-and-policy-center/penalty-guidelines/)
-* [Hyperlinked PPG](https://dcollinsn.github.io/fab-docs/pg)
 * [Legality Policy (banlists and LL)](https://fabtcg.com/resources/rules-and-policy-center/card-legality-policy/)
 * [Format Definitions](https://fabtcg.com/resources/gameplay-formats/)
 
@@ -17,6 +15,7 @@
 * [MON](https://fabtcg.com/resources/rules-and-policy-center/release-notes/monarch/)
 * [ELE](https://fabtcg.com/resources/rules-and-policy-center/release-notes/tales-aria-release-notes/)
 * [EVR](https://fabtcg.com/resources/rules-and-policy-center/release-notes/everfest/)
+* [UPR](https://fabtcg.com/resources/rules-and-policy-center/release-notes/uprising/)
 
 ## Living Legend Information
 
@@ -25,6 +24,10 @@
 
 ## Errata
 
+* [3 October 2022 Errata Bulletin #5](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-5/)
+  * Runechant and Quicken unified to always trigger on play/activation rather than when a weapon becomes attacking
+  * Zephyr Needle, Phantasmal Footsteps rolled back and now trigger when defending, not when the chain closes
+  * Clarifications on Fractal Replication, Forked Lightning
 * [12 January 2022 Errata Bulletin #4](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-4/)
   * Briar can only make one Embodiment of Earth per turn
 * [5 November 2021 Errrata Bulletin #3](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-3/)
