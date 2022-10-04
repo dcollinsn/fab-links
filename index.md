@@ -24,6 +24,9 @@
 
 ## Errata
 
+* [3 October 2022 B&S Update](https://fabtcg.com/articles/banned-suspended-oct-3/)
+  * Young Heroes prohibited in CC
+  * Yorick banned in official events
 * [3 October 2022 Errata Bulletin #5](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-5/)
   * Runechant and Quicken unified to always trigger on play/activation rather than when a weapon becomes attacking
   * Zephyr Needle, Phantasmal Footsteps rolled back and now trigger when defending, not when the chain closes
