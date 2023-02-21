@@ -24,6 +24,8 @@
 
 ## Errata
 
+* [17 February 2023 Watch Your Step...](https://fabtcg.com/articles/watch-your-step/)
+  * Traps updated to require being played from arsenal on the card rather than in the CR
 * [3 October 2022 B&S Update](https://fabtcg.com/articles/banned-suspended-oct-3/)
   * Young Heroes prohibited in CC
   * Yorick banned in official events
