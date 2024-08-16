@@ -24,6 +24,15 @@
 
 ## Errata
 
+* [23 May 2024 Errata Bulletin #9](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-9/)
+  * Bonds of Attraction and Bonds of Memory errataed to prevent an unintended interaction where stacking triggers would grant an extra +1{h}
+  * Endless Arrow and Gaze the Ages fixed to return to the owner's hand
+  * Various weapons abilities fixed to give the attacks (rather than the weapon itself) go again
+  * Enchanting Melody does not have Ward, and Down and Dirty does not have Ambush
+* [15 March 2023 Errata Bulletin #6](https://fabtcg.com/resources/rules-and-policy-center/errata-bulletins/errata-bulletin-6/)
+  * Give and Take triggers for each action card that defends it
+  * "event-based triggers typically use a present tense verb (defends) and state-based triggers typically use a past tense (defended) or a continuous tense verb (defending)"
+  * Back Heel Kick receives a while condition to work while face up in any zone
 * [17 February 2023 Watch Your Step...](https://fabtcg.com/articles/watch-your-step/)
   * Traps updated to require being played from arsenal on the card rather than in the CR
 * [3 October 2022 B&S Update](https://fabtcg.com/articles/banned-suspended-oct-3/)
@@ -46,6 +55,7 @@
   * Gambler's Gloves is a Replacement Effect
 
 ## Back Alley Oracle
+Back Alley Oracle is used to announce rules and policy changes as well as document updates and OP / Judge Program information. Only major rules and policy changes are called out here.
 
 * [#1: Comprehensive Rules 2.0 Update](https://fabtcg.com/articles/back-alley-oracle-1-comprehensive-rules-20-update/)
   * Snag and Chokeslam retroactively apply "can't gain" effects
@@ -59,8 +69,38 @@
 * [#3: Various 1.5 to 2.0 changes](https://fabtcg.com/articles/back-alley-oracle-3-cr20-officially-released/)
   * If an attack ceases to exist before damage, the combat chain closes. If it ceases to exist later than that, the combat chain does not close.
   * The Stack is not in the Arena, and so Potions etc cannot be activated until they resolve
-* [#4: Tiebreakers](https://fabtcg.com/articles/back-alley-oracle-4-tiebreakers/)
-* [#5: CR 2.0 Overview](https://fabtcg.com/articles/back-alley-oracle-cr20-overview/)
+* [#4: Tiebreakers](https://fabtcg.com/articles/back-alley-oracle-4-tiebreakers/) (player-focused explanation)
+* [Unnumbered bonus: CR 2.0 Overview](https://fabtcg.com/articles/back-alley-oracle-cr20-overview/)
+* [#5: Procedure and Penalty Guide](https://fabtcg.com/articles/back-alley-oracle-5/) (preview)
+* [#6: Judge Program Overview](https://fabtcg.com/articles/back-alley-oracle-6-judge-program-overview/) (largely outdated)
+* [#7: Penalty and Procedure Guide](https://fabtcg.com/articles/back-alley-oracle-7-penalty-and-procedure-guide/) (release announcement, partially outdated)
+* [#8: Elo Ranking Explained](https://fabtcg.com/articles/back-alley-oracle-8-elo-ranking-explained/) (player-focused explanation)
+* [#9: Avoid Common Tournament Infractions](https://fabtcg.com/articles/back-alley-oracle-9-avoid-common-tournament-infractions/) (player-focused guide)
+* [#10: Defending Update](https://fabtcg.com/articles/back-alley-oracle-10-defending-update/)
+  * A card "defends" if it is added to the chain link as a defending card, regardless of whether it is used to defend, played as a defense reaction, or added by an effect
+  * Dominate looks at defending cards actively on the chain link, if a defending card is Routed, it is legal to play a defense reaction from hand
+  * Reprise looks back in time to see if a card has ever been added as a defending card from hand, if a defending card is Routed, Reprise is still active
+* [#11: Missed Triggers and Player Responsibilities](https://fabtcg.com/articles/back-alley-oracle-11-missed-triggers-and-player-responsibilities/)
+  * Missed Trigger Warning upgrade is based on context of the game state
+  * Partial fixes and rewinds are authorized to correct missed mandatory triggers
+  * If a partial fix or rewind would further damage the game state or create unfair advantage for the player committing the error, leave the game state as it is
+* [#12: Tokens, Triggers, and Tardiness](https://fabtcg.com/articles/back-alley-oracle-12-tokens-triggers-and-tardiness/)
+  * Tokens (both token type and token rarity) are cards, but token type cards cannot be in a card-pool
+  * For multiple triggers being put on the stack simultaneously, turn player chooses which player's triggers go on the stack first, but players order their own triggers
+  * If you can look at the top of your deck (Dash I/O), and that card changes during an effect, you can't look at the new card until the effect completes and a player gains priority
+  * Phantasm no longer forces the combat chain to close on its own, so if a Phantasm card triggers after damage (or on a previous chain link) the chain will not close
+  * UPF range of influence rules updated
+  * Tardiness penalties updated and now includes late decklists
+* [#13: Misprints, Alters, Proxies, and Tokens](https://fabtcg.com/articles/back-alley-oracle-13-misprints-alters-proxies-and-tokens/)
+  * Updated alter/misprint rules, too extensive to summarize
+* [#14: Forked Lightning, Concessions, and more](https://fabtcg.com/articles/back-alley-oracle-14-forked-lightning-concessions-and-more/)
+  * Legendary keyword only applies to constructed
+  * Prevention effects can apply to each event of damage, i.e. two instances of AB1 can prevent all damage from Forked Lightning
+  * Arcane damage buffs are now split between ones that buff a card (and all effects on it), and ones that buff an event
+  * Players can no longer ask for a concession before decks are presented
+  * Players who have discussed a prize split may not concede
+  * Players may not discuss future turns after time is called
+  * Players must reveal face-down cards (e.g. cloaked equipment) at end of game and must use the standard "T" layout for equipment, particularly if any are face-down
 
 ## Useful Rulings
 
